@@ -1,0 +1,11 @@
+{
+  "name": "uubmldraw-transform",
+  "version": "0.0.0",
+  "description": "",
+  "license": "",
+  "dependencies": {
+    "pako": "^1.0.11",
+    "png-metadata": "^1.0.2",
+    "text-encoding": "^0.7.0"
+  }
+}
